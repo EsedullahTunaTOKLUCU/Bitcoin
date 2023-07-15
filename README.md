@@ -1,2 +1,3 @@
 # Bitcoin
-# Bitcoin
+
+projeyi yaparken eğlendim
